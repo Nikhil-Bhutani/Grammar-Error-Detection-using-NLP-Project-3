@@ -1,9 +1,10 @@
 # Grammar-Error-Detection-using-NLP-Project-3
 ## Grammar Error Checker using BERT and XLNET.
 This project can detect whether the given input English Sentence is grammatically correct or not.
-*Input:*  Sentence(English Language).
 
-*Output:* The implemented system will check whether the given sentence is grammatically correct or not using both BERT(bert-base-cased) and XLNET(xlnet-base-cased) models were used.
+**Input:**  Sentence(English Language).
+
+**Output:** The implemented system will check whether the given sentence is grammatically correct or not using both BERT(bert-base-cased) and XLNET(xlnet-base-cased) models were used.
 
 Here both the models are trained on Google-Colaboratory and after training the classifier models are downloaded and further used for grammar checking. 
 
