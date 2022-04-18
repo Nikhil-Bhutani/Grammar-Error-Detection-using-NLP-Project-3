@@ -4,7 +4,7 @@ This project can detect whether the given input English Sentence is grammaticall
 
 **Input:**  Sentence(English Language).
 
-**Output:** The implemented system will check whether the given sentence is grammatically correct or not using both BERT(bert-base-cased) and XLNET(xlnet-base-cased) models were used.
+**Output:** The implemented system will check whether the given sentence is grammatically correct or not using both BERT(bert-base-cased) and XLNET(xlnet-base-cased) models.
 
 Here both the models are trained on Google-Colaboratory and after training the classifier models are downloaded and further used for grammar checking. 
 
